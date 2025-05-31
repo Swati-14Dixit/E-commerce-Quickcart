@@ -26,10 +26,9 @@ Version Control: Git, GitHub
 API Testing: Postman
 
 🔧 Getting Started
+
 To set up and run QuickCart locally:
-
 Clone the Repository
-
 Open your terminal and run:
 
 bash
@@ -46,7 +45,6 @@ Copy
 Edit
 npm install
 Run the Development Server
-
 Start the development server:
 
 bash
