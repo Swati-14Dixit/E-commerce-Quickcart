@@ -1,7 +1,10 @@
-🚀 QuickCart: MERN Stack E-Commerce Platform
+🚀 QuickCart: 
+
+MERN Stack E-Commerce Platform
 QuickCart is a dynamic and scalable e-commerce application developed using the MERN stack—MongoDB, Express.js, React.js, and Node.js. It provides a seamless online shopping experience, featuring user authentication, product browsing, cart management, and order processing.
 
 🔑 Key Features
+
 User Authentication: Secure login and registration system utilizing JWT (JSON Web Tokens) for user sessions.
 Product Management: Admin panel to manage products, including CRUD operations and image uploads.
 Shopping Cart: Users can add, update, or remove items, and view total costs before checkout.
@@ -12,6 +15,7 @@ Search & Filters: Advanced product search with filtering options by category, pr
 Admin Dashboard: Comprehensive dashboard for administrators to manage users, products, and orders.
 
 🛠️ Tech Stack
+
 Frontend: React.js, React Router, CSS
 Backend: Node.js, Express.js
 Database: MongoDB (Atlas)
