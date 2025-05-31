@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+🛒 MERN E-Commerce Platform
+
+This is a full-stack, production-ready e-commerce application built using the MERN stack — MongoDB, Express.js, React, and Node.js. The platform is designed to offer a seamless and responsive online shopping experience, featuring essential e-commerce functionalities such as product browsing, user authentication, shopping cart, secure checkout, and order management.
+
+Built with scalability and maintainability in mind, this project can serve as both a learning tool for developers and a foundation for real-world commercial applications. The backend handles secure API endpoints, user roles, and payment processing, while the frontend provides a modern and intuitive user interface.
 
 ## Getting Started
 
